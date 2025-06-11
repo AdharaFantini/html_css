@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Hand:wght@400..700&family=Imperial+Script&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Hand:wght@400..700&family=Imperial+Script&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Rubik+Gemstones&display=swap');
 
 body{
     margin: 0;
@@ -8,15 +9,17 @@ body{
 }
 h1, h2 {
 
-    font-family: "Edu SA Hand", sans-serif;
-    font-weight: 700;
-    font-size: 30px ;
+    font-family: "Rubik Gemstones";
+    font-weight: 100;
+    font-size: 50px;
+    color: #3f74c5;
     padding: 10px 15px 20px 25px;
 }
 h3 {
     font-family: "Imperial Script", serif;
     font-weight: 800;
     font-size: 40px;
+    color: #9589e6;
     padding: 20px 25px 30px 35px ;
 }
 p {
