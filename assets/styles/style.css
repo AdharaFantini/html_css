@@ -9,11 +9,12 @@
 
 .fashion__female {
     padding: 20px 30px;
+    color: rgb(153, 115, 59);
 }
 
 .fashion__female-p {
     font-size: 25px;
-    color: chocolate;
+    color: rgb(121, 30, 24);
     padding-top: 10px;
     margin: auto;
     width: 50%;
